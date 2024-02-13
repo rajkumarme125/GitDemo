@@ -7,6 +7,7 @@ public class DeleteArray {
 		deleteArrayPosition(arr,3);
 		System.out.println("-------------------New One--------------");
 		deleteArrayIndex(arr,3);
+		System.out.println("-------------------Git Test--------------");
 
 		
 

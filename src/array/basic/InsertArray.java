@@ -13,6 +13,7 @@ public class InsertArray {
 		}
 		System.out.println("-------------------New One--------------");
 		insertArrayIndex(arr,3);
+		System.out.println("-------------------Git Test--------------");
 
 		
 
