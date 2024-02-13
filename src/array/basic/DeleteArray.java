@@ -8,6 +8,8 @@ public class DeleteArray {
 		System.out.println("-------------------New One--------------");
 		deleteArrayIndex(arr,3);
 		System.out.println("-------------------Git Test--------------");
+		System.out.println("-------------------Git Test1st orign user--------------");
+		
 
 		
 
